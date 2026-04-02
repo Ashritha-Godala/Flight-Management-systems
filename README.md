@@ -33,7 +33,7 @@ java Main
 
 Configure database connection in the code if using MySQL
 
-Purpose:
+## Purpose
 This project was created to:
 
 Practice Java OOP principles
@@ -50,6 +50,5 @@ Create a new branch (feature-xyz)
 
 Commit changes and open a pull request
 
-## Screenshots
 
 
